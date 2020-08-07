@@ -1,6 +1,4 @@
-<h1 style="text-align: center" >
-    <img src="./docs/logo.svg" alt="Logo"/>
-</h1>
+<img src="./docs/logo.svg" />
 
 # Proffy API Rest
 
