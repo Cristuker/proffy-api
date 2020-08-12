@@ -1,6 +1,20 @@
-<img src="./docs/logo.svg" />
+<p align="center" >
+<img src="./docs/logo.png">
+</p>
 
 # Proffy API Rest
+
+<div style="display: flex; flex-direction: row; " >
+
+![GitHub last commit](https://img.shields.io/github/last-commit/cristuker/proffy-api?color=%238257e5&style=flat-square)
+&nbsp;
+![GitHub top language](https://img.shields.io/github/languages/top/cristuker/proffy-api?color=%238257e5&style=flat-square)
+&nbsp;
+![GitHub repo size](https://img.shields.io/github/repo-size/cristuker/proffy-api?color=%238257e5&style=flat-square)
+&nbsp;
+![GitHub deployments](https://img.shields.io/github/deployments/cristuker/proffy-api/proffy-api-cris?color=%238257e5&label=Deploy%20status&style=flat-square)
+
+</div>
 
 API criada para o projeto da #NLW2 da Rocketseat.
 
